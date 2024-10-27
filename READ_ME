@@ -1,0 +1,17 @@
+File destination format
+
+spam-classifier-main
+1.idea
+2.ipynb checkpoints
+3. gitignore
+4. app.py
+5.model.pkl
+6.nltk
+7.procfile
+8.README
+9.requirements
+10.set up
+11.sma-spam-detection
+12.spam.csv
+13.vectorizer.pkl
+
